@@ -1,14 +1,15 @@
-Kelompok 5 :
+##Kelompok 5 :
 
 Tema : Healthcare
 
-1. Alia Rifani Safitri 18104028
+1. Alia Rifani Safitri  18104028
 
-2. Aji Setyawan 18104003
+2. Aji Setyawan         18104003
 
-3. Hikmah Irfa'i 18104012
+3. Hikmah Irfa'i        18104012
 
-1. Latar Belakang
+
+##Latar Belakang
 Kesehatan merupakan bagian penting dari kesejahteraan masyarakat. Kesehatan juga
 merupakan salah satu kebutuhan yang penting di samping kebutuhan sandang, pangan, dan
 papan. Badan yang sehat dapat membantu menjalankan aktivitas dengan baik dan sejahtera.
@@ -26,20 +27,34 @@ panduan cara hidup sehat, dengan olahraga yang benar dan teratur, cara menjaga k
 lingkungan, cara menjaga tubuh supaya sehat dan bugar dan memberikan informasi mengenai
 kesehatan di Indonesia.
 
-Tujuan
+##Tujuan
+
 a. Mempermudah masyarakat untuk update kesehatan yang ada di Indonesia.
+
 b. Mempermudah masyarakat dalam melakukan rutinitas sehat secara teratur.
+
 c. Mempermudah masyarakat dalam menentukan cara menjaga kesehatan sesuai dengan yang
 dibutuhkan.
+
 d. Sebagai sumber informasi tentang hidup sehat dan informasi tentang menjaga kesehatan.
+
 e. Mengurangi biaya untuk mendapatkan layanan kesehata.
 
-Fitur
+##Fitur
+
 a. Beranda -> Pada menu beranda user akan di tampilkan artikel terbaru dari dunia kesehatan
-b. Buku kesehatan -> Pada menu buku kesehatan dapat melihat berbagai informasi mengenai
+
+b. Info kesehatan -> Pada menu buku kesehatan dapat melihat berbagai informasi mengenai
 cara menjaga kesehatan sesuai dengan kategori yang dibutuhkan
+
 c. Artikel -> berisi tentang infromasi terbaru tentang informasi kesehatan.
+
 d. Kalender -> Pada menu kalender user dapat melihat dan mengedit jadwal kegiatan yang akan
 atau telah di lakukan sebagai pengingat rutinitas
+
 e. Consult-> Pada menu Consult berisi tentang dimana user dapat berkonsultasi online kepada
 dokter. 
+
+##Privew Fitur
+
+- Beranda
