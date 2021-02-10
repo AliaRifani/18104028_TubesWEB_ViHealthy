@@ -71,11 +71,11 @@ dokter.
 
 ![infokesehatan](https://user-images.githubusercontent.com/56965210/107509838-b099af00-6bd5-11eb-86d7-74ac696d2491.PNG)
 
--Kalender
+- Kalender
 
 ![kalender](https://user-images.githubusercontent.com/56965210/107509807-a24b9300-6bd5-11eb-8185-dd813962273a.PNG)
 
--Dokter
+- Dokter
 
 ![dokter](https://user-images.githubusercontent.com/56965210/107509834-b0011880-6bd5-11eb-9d32-86dc79625113.PNG)
 
