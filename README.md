@@ -59,3 +59,23 @@ dokter.
 
 - Beranda
 
+![beranda1](https://user-images.githubusercontent.com/56965210/107509819-a8da0a80-6bd5-11eb-9b5c-fdfae51a30e9.PNG)
+
+![beranda2](https://user-images.githubusercontent.com/56965210/107509829-ad9ebe80-6bd5-11eb-8c97-2169278e94bc.PNG)
+
+- Artikel
+
+![artikel](https://user-images.githubusercontent.com/56965210/107509808-a4155680-6bd5-11eb-85dd-904bd0d2b952.PNG)
+
+- Info Kesehatan
+
+![infokesehatan](https://user-images.githubusercontent.com/56965210/107509838-b099af00-6bd5-11eb-86d7-74ac696d2491.PNG)
+
+-Kalender
+
+![kalender](https://user-images.githubusercontent.com/56965210/107509807-a24b9300-6bd5-11eb-8185-dd813962273a.PNG)
+
+-Dokter
+
+![dokter](https://user-images.githubusercontent.com/56965210/107509834-b0011880-6bd5-11eb-9d32-86dc79625113.PNG)
+
